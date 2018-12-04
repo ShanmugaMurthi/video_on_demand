@@ -1,0 +1,3 @@
+class ContentSerializer < ApplicationSerializer
+  
+end
